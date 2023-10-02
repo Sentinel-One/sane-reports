@@ -50,7 +50,7 @@
     "moment": "2.21.0",
     "moment-timezone": "0.5.14",
     "parse-link-header": "0.4.1",
-    "postcss-reporter": "1.4.1",
+    "postcss-reporter": "4.0.0",
     "react": "15.6.1",
     "react-dom": "15.6.1",
     "react-grid-layout": "0.16.2",
@@ -60,7 +60,7 @@
     "react-virtualized": "9.16.1",
     "recharts": "1.0.0-beta.5",
     "seedrandom": "2.4.3",
-    "semantic-ui": "2.2.11",
+    "semantic-ui": "2.5.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
